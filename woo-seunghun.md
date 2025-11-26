@@ -27,6 +27,9 @@ The movie [Perfect Blue](bae-minseok.md), much like the game OMORI, is a work ce
 7. 12th week PBL Activity
 From bright and dreamy chiptune to dissonant and ambient sounds, it contrasts the bright dream world with the dark reality.
 
+8. 13th Week PBL Activity
+Everything Perfect!
+
 <img src ="./woo-seunghun.png" alt = "description" style="width:35%"/>
 
 
@@ -48,4 +51,7 @@ From bright and dreamy chiptune to dissonant and ambient sounds, it contrasts th
 영화 [퍼펙트 블루](bae-minseok.md)는 게임 OMORI와 같은 병, 해리성 정체성 장애를 주제로 하여 작품을 만들었다. OMORI와 유사하게 불협화음을 이용하여 해리성 정체성 장애를 표현한 것이 특징이다.
 
 7. 12주차 PBL 활동
-밝고 몽환적인 칩튠애서 불협화음.앰비언트 사운드로 변화하여 밝은 꿈 속의 세계와 암울한 현실의 내용을 대비하여 표현하였다.
+밝고 몽환적인 칩튠애서 불협화음.앰비언트 사운드로 변화하여 밝은 꿈 속의 세계와 암울한 현실의 내용을 대비하여 표현하였다.\
+
+8. 13주차 PBL 활동
+문서상 이상한 점 없음!
